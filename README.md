@@ -27,7 +27,7 @@
 #### 🎨 Design & Others
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+    <img src="https://skillicons.dev/icons?i=figma,ps" />
   </a>
 </p>
 
