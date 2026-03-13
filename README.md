@@ -1,39 +1,50 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# <h1 align="center">Hi, I'm Fian Mackfia Estianty 👋</h1>
+</p>
 
-###
+---
 
-<p align="left">My name is Fia and I'm a student, from  Telkom University</p>
+### 🚀 About Me
+<p align="left">
+  Saya adalah mahasiswi <b>Teknik Komputer di Telkom University</b> yang memiliki minat besar pada IT dan Bisnis. Sebagai lulusan <b>SMK Telkom Malang</b>, saya menggabungkan fondasi logika matematika yang kuat dengan pengalaman praktis di bidang pengembangan web dan desain.
+</p>
 
-###
+* 📚 **Education:** S1 Teknik Komputer, Telkom University.
+* 🏆 **Achievements:** National Silver Medalist in Mathematics Olympiad (2023 & 2025).
+* 💼 **Previous Experience:** Intern at SIDIGS as UI Designer & Content Creator.
+* ✨ **Core Interests:** Full-stack Web Development, UI/UX Design, and Digital Marketing.
 
-<h2 align="left">About me</h2>
+---
 
-###
+### 🛠️ Tech Stack & Skills
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+#### 💻 Development
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,php,html,css" />
+  </a>
+</p>
 
-###
+#### 🎨 Design & Others
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+  </a>
+</p>
 
-<h2 align="left">I code with</h2>
+---
 
-###
+### 📜 Certifications
+* **Full Stack Web Development** - SMK Telkom Malang
+* **Backend Developer** - Certified by DOT
+* **IT Specialist: JavaScript** - Certiport
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-</div>
+---
 
-###
+### 📫 Let's Connect!
+<p align="left">
+<a href="https://www.linkedin.com/in/fian-mackfia-estianty-8912a929b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Fian Mackfia Estianty" height="30" width="40" /></a>
+</p>
+
+<p align="center">
+  <i>"Combining logic and creativity to build meaningful digital experiences."</i>
+</p>
